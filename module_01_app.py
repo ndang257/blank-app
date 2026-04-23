@@ -46,3 +46,4 @@ with left_column:
     with tab_ph06:
         st.subheader("Phase 6: Deployment")
         st.image(str(IMAGE_DIR / "crisp-dm-phase06.svg"), width="stretch", caption="Phase 6: Deployment")
+        
